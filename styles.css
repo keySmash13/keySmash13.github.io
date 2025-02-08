@@ -10,4 +10,20 @@ p {
     text-align: center;
     color: green;
   }
+  .about {
+    background: #00b3d1;
+  }
+  .skills {
+    background: burlywood;
+  }
+  .projects {
+    font: bold;
+    font-family: fantasy;
+    background-color: darksalmon;
+  }
+  .contact {
+    background-color: black;
+    color: aliceblue;
+  }
+
   
